@@ -32,11 +32,6 @@ The uploaded notebook is currently named:
 eesha_khawaja_thesis_code.ipynb
 ```
 
-For the final submission package, renaming it to the cleaner filename below is recommended:
-
-```text
-eesha_khawaja_thesis_code.ipynb
-```
 
 The input workbook filename is hard-coded in the notebook and therefore **must be**:
 
@@ -101,8 +96,6 @@ The notebook does **not** create treatment-change identifiers itself. If the sou
 ### Synthetic or pre-filled covariate values
 
 The notebook does **not** generate synthetic age, ethnicity, deprivation, risk, or treatment values. If missing covariates were filled before the notebook was run, those values are already part of the input workbook and are treated as ordinary input values by the code.
-
-Any such pre-processing should therefore be documented separately in the dissertation or data notes.
 
 ---
 
